@@ -1,0 +1,15 @@
+{
+    "name": "Survey",
+    "description": "Create simple surveys for many different purposes. Inspired by Google Forms",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Maximilian Stauss"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
