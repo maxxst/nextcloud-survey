@@ -1,4 +1,4 @@
-# Survey
+# Survey 2
 Place this app in **nextcloud/apps/**
 
 ## Building the app
